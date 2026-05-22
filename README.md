@@ -221,5 +221,7 @@ Student ID: CA/SE3/16577
 
 ## 🔗 Connect With Me
 
-- **GitHub:** https://github.com/YOUR_USERNAME
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+- **GitHub:** https://github.com/Rajnai79
+- **LinkedIn:** www.linkedin.com/in/raj-nai-b13a482a4
+
+
